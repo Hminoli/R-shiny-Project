@@ -68,6 +68,7 @@ install.packages(c("shiny", "shinythemes", "ggplot2", "dplyr", "DT"))
 
 - The cleaned dataset (`video_games_sales_cleaned.csv`) should be placed inside the `data/` directory.
 - If you need to preprocess or clean the raw data, use the `data_preprocessing.ipynb` notebook .
+- dataset link - https://www.kaggle.com/datasets/zahidmughal2343/video-games-sale
 
 #### **4. Running the App**
 
